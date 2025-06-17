@@ -4,6 +4,7 @@ author: Akhil Pathapati
 description: Simple PCB mill based on 3D-printer's structure, able to mill 6x60mm boards continuously.
 created_at: 2025-06-16
 ---
+Total Time: 5 hours
 
 # June 16th: Working on the Main structure
 
@@ -34,3 +35,10 @@ Motion System:
 <img width="714" alt="Screenshot 2025-06-16 at 6 16 03 PM" src="https://github.com/user-attachments/assets/dcd4e00b-2fac-40fa-ad52-82b908f47512" />
 
 **Total time spent: 3h**
+
+# June 16th: Working on the motor mounts and BOM
+LMAO it's done, did this for the PCB mill challenge and just locked in for 5 hours and designed it. I added all the brackets and motor mounts. Mostly 3D printed. The copper clad will be held down using double sided tape.
+
+<img width="592" alt="Screenshot 2025-06-16 at 8 07 46 PM" src="https://github.com/user-attachments/assets/16e5058c-d32c-4669-a20e-90991dd711d5" />
+
+**Total time spent: 2h**
