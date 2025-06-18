@@ -6,9 +6,11 @@ This is a mini pcb mill thats portable and able to continuously mill 60mmx60mm c
 Why:
 Well its for the PCB mill challenge for open sauce and I love cnc machining and pcbs so having a pcb mill would be really nice. And its cool knowing how fast I made this.
 
+<img width="686" alt="Screenshot 2025-06-18 at 4 05 07 PM" src="https://github.com/user-attachments/assets/20a1afbd-75ab-4f2e-b6a4-5f2a658c4f32" />
+<img width="627" alt="Screenshot 2025-06-18 at 4 05 22 PM" src="https://github.com/user-attachments/assets/25906488-44ee-4b1b-8ce8-f65a6d101315" />
 
-<img width="640" alt="Screenshot 2025-06-16 at 9 06 48 PM" src="https://github.com/user-attachments/assets/2bc95d90-fbb0-4650-8d1e-71b71527f047" />
-<img width="571" alt="Screenshot 2025-06-16 at 9 07 01 PM" src="https://github.com/user-attachments/assets/bdf6ec7a-0ce2-4a06-a658-c9d0303477f7" />
+
+
 
 | Part                     |   QTY | Total Price    |
 |:-------------------------|------:|:---------------|
