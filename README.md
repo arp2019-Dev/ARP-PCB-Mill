@@ -9,7 +9,7 @@ Well its for the PCB mill challenge for open sauce and I love cnc machining and 
 <img width="686" alt="Screenshot 2025-06-18 at 4 05 07 PM" src="https://github.com/user-attachments/assets/20a1afbd-75ab-4f2e-b6a4-5f2a658c4f32" />
 <img width="627" alt="Screenshot 2025-06-18 at 4 05 22 PM" src="https://github.com/user-attachments/assets/25906488-44ee-4b1b-8ce8-f65a6d101315" />
 
-
+https://cad.onshape.com/documents/b74a3c2ca75f89c28d6770ea/w/1952ac020774b0cf3b563c9c/e/f3da6963d33dde259230a972?renderMode=0&uiState=685355bd213e7c26ea7be106
 
 
 | Part                     |   QTY | Total Price    |
