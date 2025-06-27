@@ -1,7 +1,9 @@
-# ARP-PCB-Mill
+# CircuitCrafter Mini
 
 Description:
-This is a mini pcb mill thats portable and able to continuously mill 60mmx60mm copper clad. This mill can also be used for other light materials like aluminum or plastic but its primarily for making pcbs. Its made of aluminum extrusions for rigidity and uses lead screws to ensure it can cut fast without skipping steps. I tried to make this poject as a grind project for the pcb mill challenge.
+The CircuitCrafter Mini is a compact CNC milling machine built to fabricate 5x7 cm copper-clad PCBs with speed and precision. Its rigid aluminum extrusion frame, driven by NEMA 17 stepper motors and leadscrews, ensures smooth, reliable motion without skipped steps.
+Metal brackets provide structural strength, while custom components like motor mounts are 3D printed in PLA, offering flexibility, reduced cost, and ease of customization.
+Optimized for PCB work, the mill can also handle light materials like plastic and aluminum, making it a versatile tool for prototyping. Designed as a personal challenge, the Circuit Crafter Mini combines portability, performance, and precision in a compact package.
 
 Why:
 Well its for the PCB mill challenge for open sauce and I love cnc machining and pcbs so having a pcb mill would be really nice. And its cool knowing how fast I made this.
